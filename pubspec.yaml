@@ -1,0 +1,3 @@
+name: todo_app
+dependencies:
+  browser: ^0.10.0
